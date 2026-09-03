@@ -1,0 +1,10 @@
+{
+  "decks": [
+    {
+      "path": "cards/English.txt",
+      "name": "English.txt",
+      "category": "",
+      "size": 145615
+    }
+  ]
+}
