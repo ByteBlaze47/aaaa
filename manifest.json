@@ -4,7 +4,9 @@
       "path": "cards/English.txt",
       "name": "English.txt",
       "category": "",
-      "size": 116921
+      "size": 116921,
+      "audio_url": "audio/English.zip",
+      "audio_size": 21637860
     }
   ]
 }
